@@ -11,19 +11,27 @@ B.Sc Software Engineering
 
 ## Featured Projects
 
-Coming Soon
+https://github.com/Marychiso/KidsLanguageSystem.git
+https://github.com/Marychiso/DepartmentManagementSystem.git
 
 ## Research
 
-Coming Soon
+zero trust Report.pdf
+Summer Intership report.pdf
+KidsLanguageLearningSystem_FinalReport.pdf
 
 ## Certifications
 
-Coming Soon
+AWS Clous practictioner
+AWS Services
+Cloud Fundamentals
+Introduction to Cybersecurity
+Introduction to AWS
+Introduction to Cloud Computing
 
 ## Labs
 
-Coming Soon
+Software Requirement Specification Documents
 
 ## Resume
 
