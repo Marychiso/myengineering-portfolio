@@ -1,12 +1,13 @@
-# Your Name
+# IFEDIATU MARY CHISOANYI
 
-Final Year Software Engineering Student
+B.Sc Software Engineering 
 
 ## Interests
 
 - Cloud Computing
 - Cybersecurity
 - Project Management
+- Data analysis
 
 ## Featured Projects
 
@@ -31,4 +32,4 @@ Coming Soon
 ## Contact
 
 LinkedIn:
-Email:
+Email: ifedmaryc@gmail.com
