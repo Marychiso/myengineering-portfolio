@@ -1,14 +1,16 @@
 # Projects
 
-## Secure Authentication System
+## Kids Learning System
 
 Technologies:
-- Python
-- Flask
-- JWT
+- HTML
+- CSS
+- JAVASCRIPT
+- MONGODB
+  
 
 Repository:
-https://github.com/yourusername/secure-authentication-system
+https://github.com/Marychiso/Kids-learning-system
 
 Description:
 
