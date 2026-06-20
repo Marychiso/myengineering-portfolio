@@ -27,4 +27,9 @@ Technologies:
 - MySql
 
 Repository:
-https://github.com/yourusername/cloud-monitoring-dashboard
+https://github.com/Marychiso/DepartmentManagementSystem.git
+
+Description:
+
+The Department Management System is a web-based platform that streamlines appointment scheduling and department entry requests for students. Students can book appointments with employees or apply for entry, while employees can review, approve, or reject requests through their dashboards. Approved requests generate secure QR codes for access verification, and a Super Admin manages employees and oversees system operations.
+
