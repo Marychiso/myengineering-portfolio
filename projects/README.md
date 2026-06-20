@@ -10,7 +10,7 @@ Technologies:
   
 
 Repository:
-https://github.com/Marychiso/KidsLearningSystem
+https://github.com/Marychiso/KidsLanguageSystem.git
 
 Description:
 
