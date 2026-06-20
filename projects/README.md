@@ -10,14 +10,11 @@ Technologies:
   
 
 Repository:
-https://github.com/Marychiso/Kids-learning-system
+https://github.com/Marychiso/KidsLearningSystem
 
 Description:
 
-Implemented secure user authentication using JWT
-tokens and role-based access control.
-
----
+The Kids Language Learning System was developed to provide an interactive and engaging learning experience for children through lessons, quizzes, and educational games. The system combines visual learning, gamification, animations, and simple user interaction to improve children’s understanding and participation. Through this project, valuable experience was gained in frontend and backend development, system design, problem solving, and educational software implementation.
 
 ## Cloud Monitoring Dashboard
 
