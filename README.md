@@ -22,12 +22,18 @@ KidsLanguageLearningSystem_FinalReport.pdf
 
 ## Certifications
 
-AWS Clous practictioner
 AWS Services
 Cloud Fundamentals
 Introduction to Cybersecurity
 Introduction to AWS
 Introduction to Cloud Computing
+Google Data Analytics Professional Certificate — Coursera
+Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+IBM Data Analyst Professional Certificate — Coursera
+Tableau Desktop Specialist — Tableau/Salesforce
+Data Engineering & Cloud
+AWS Certified Cloud Practitioner (CLF-C02)
+Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 ## Labs
 
