@@ -38,11 +38,6 @@ Microsoft Certified: Azure Data Fundamentals (DP-900)
 ## Labs
 
 Software Requirement Specification Documents
-
-## Resume
-
-Coming Soon
-
 ## Contact
 
 LinkedIn:
