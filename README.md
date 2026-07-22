@@ -36,6 +36,5 @@ PMI Agile Certified Practitioner (PMI-ACP) — PMI Google Project Management Pro
 
 Software Requirement Specification Documents
 ## Contact
-
-LinkedIn:
+Phone Number:+905488645576
 Email: ifedmaryc@gmail.com
