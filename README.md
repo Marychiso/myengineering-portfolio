@@ -21,19 +21,16 @@ Summer Intership report.pdf
 KidsLanguageLearningSystem_FinalReport.pdf
 
 ## Certifications
-
-AWS Services
 Cloud Fundamentals
 Introduction to Cybersecurity
-Introduction to AWS
 Introduction to Cloud Computing
-Google Data Analytics Professional Certificate — Coursera
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-IBM Data Analyst Professional Certificate — Coursera
 Tableau Desktop Specialist — Tableau/Salesforce
-Data Engineering & Cloud
 AWS Certified Cloud Practitioner (CLF-C02)
 Microsoft Certified: Azure Data Fundamentals (DP-900)
+Project Management Professional (PMP) — PMI
+Certified Associate in Project Management (CAPM) — PMI
+Professional Scrum Master I (PSM I) — Scrum.org
+PMI Agile Certified Practitioner (PMI-ACP) — PMI Google Project Management Professional Certificate — Coursera
 
 ## Labs
 
