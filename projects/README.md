@@ -72,7 +72,7 @@ The dataset should include:
 -Other insects
 -Empty backgrounds
 
-Repository:
+Repository: https://github.com/Marychiso/hornetsystem.git
 
 
 Description:
