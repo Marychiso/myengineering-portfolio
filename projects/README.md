@@ -30,6 +30,9 @@ The project was initially developed as a web-based learning platform and later e
 **Category:** Educational Technology (EdTech)  
 **Platforms:** Web, Android & iOS
 
+# Repository: 
+https://github.com/Marychiso/KidsLanguageSystem.git
+
 ## Department Management System
 
 Technologies:
@@ -40,17 +43,17 @@ Technologies:
 - Postman
 - MySql
 
-Repository:
+# Repository:
 https://github.com/Marychiso/DepartmentManagementSystem.git
 
-Description:
+# Description:
 
 The Department Management System is a web-based platform that streamlines appointment scheduling and department entry requests for students. Students can book appointments with employees or apply for entry, while employees can review, approve, or reject requests through their dashboards. Approved requests generate secure QR codes for access verification, and a Super Admin manages employees and oversees system operations.
 
 
 ## Hornet Detection System
 
-Technologies:
+# Technologies:
 1. Raspberry Pi
 The Raspberry Pi 5 (or another Raspberry Pi model) 
 Its responsibilities include:
@@ -60,7 +63,7 @@ Its responsibilities include:
 --Sending alerts
 Controlling optional hardware like traps or deterrents
 
-Languages
+# Languages
 -Python (main language)
 -Linux command line (basic knowledge)
 
@@ -86,7 +89,8 @@ The dataset should include:
 -Other insects
 -Empty backgrounds
 
-Repository: https://github.com/Marychiso/hornetsystem.git
+# Repository: 
+https://github.com/Marychiso/hornetsystem.git
 
 
 Description:
