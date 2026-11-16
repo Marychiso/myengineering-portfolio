@@ -1,20 +1,34 @@
 # Projects
 
-## Kids Learning System
+#  Kids Language Learning System
 
-Technologies:
-- HTML
-- CSS
-- JAVASCRIPT
-- MONGODB
-  
+The Kids Language Learning System is a full-stack web and mobile educational platform designed to help children learn new languages through interactive lessons, quizzes, games, and stories.
 
-Repository:
-https://github.com/Marychiso/KidsLanguageSystem.git
+The system supports **English, French, Spanish, and Chinese**, providing an engaging learning experience with audio pronunciation, animations, colorful illustrations, and child-friendly navigation.
 
-Description:
+# Key Features
+- Interactive language lessons and quizzes
+- Educational games and narrated stories
+- Multilingual learning support
+- Audio pronunciation and animations
+- User registration and authentication
+- Progress tracking and achievement badges
+- Personalized learning dashboard
+- Web and mobile accessibility
 
-The Kids Language Learning System was developed to provide an interactive and engaging learning experience for children through lessons, quizzes, and educational games. The system combines visual learning, gamification, animations, and simple user interaction to improve children’s understanding and participation. Through this project, valuable experience was gained in frontend and backend development, system design, problem solving, and educational software implementation.
+ # Technologies & Tools
+- **Mobile:** React Native, Expo, TypeScript, Expo Router
+- **UI & Animations:** React Native SVG, React Native Reanimated
+- **Backend:** REST APIs, database integration
+- **Development:** Visual Studio Code, Git, GitHub, npm
+- **Testing:** Expo Go, Android and iOS devices
+
+# Project Overview
+The project was initially developed as a web-based learning platform and later expanded into a cross-platform mobile application. It demonstrates practical skills in **full-stack development, mobile application development, API integration, UI/UX design, and collaborative software engineering**.
+
+**Project Type:** Full-Stack Web & Mobile Application  
+**Category:** Educational Technology (EdTech)  
+**Platforms:** Web, Android & iOS
 
 ## Department Management System
 
