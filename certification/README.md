@@ -1,10 +1,10 @@
-#Professional Certifications & Learning Achievements
+# Professional Certifications & Learning Achievements
 
-This section showcases my professional development and continuous learning in Cloud Computing, Amazon Web Services (AWS), Identity and Access Management (IAM), and Cybersecurity.
+### This section showcases my professional development and continuous learning in Cloud Computing, Amazon Web Services (AWS), Identity and Access Management (IAM), and Cybersecurity.
 
-Through these courses on Coursera, I have developed foundational knowledge of cloud technologies, AWS services, cloud infrastructure, identity management, and cybersecurity principles.
+### Through these courses on Coursera, I have developed foundational knowledge of cloud technologies, AWS services, cloud infrastructure, identity management, and cybersecurity principles.
 
-1. Cloud Computing & Fundamentals
+### Cloud Computing & Fundamentals
 
 Courses focused on understanding cloud computing concepts, infrastructure, deployment models, and the fundamentals of cloud-based technologies.
 
@@ -22,7 +22,7 @@ Cloud Fundamentals
 * Learning Outcome: Gained foundational knowledge of cloud environments and the technologies that support them.
 * Certificate: View Certificate
 
-2. Amazon Web Services (AWS)
+### Amazon Web Services (AWS)
 
 Courses focused on Amazon Web Services, its cloud ecosystem, core services, and practical applications.
 
@@ -47,7 +47,7 @@ AWS Services
 * Learning Outcome: Improved understanding of the AWS service ecosystem and how different services support cloud-based solutions.
 * Certificate: View Certificate
 
-3. Cloud Security & Identity Management
+### Cloud Security & Identity Management
 
 Courses focused on understanding access management, identity protection, and security practices within cloud environments.
 
@@ -58,7 +58,7 @@ IAM Handbook
 * Learning Outcome: Developed an understanding of how identities and permissions are managed to protect systems and resources.
 * Certificate: View Certificate
 
-4. Cybersecurity
+### Cybersecurity
 
 Courses focused on developing foundational cybersecurity knowledge and understanding the importance of protecting digital systems and information.
 
