@@ -33,6 +33,8 @@ The project was initially developed as a web-based learning platform and later e
 ### Repository: 
 https://github.com/Marychiso/KidsLanguageSystem.git
 
+
+
 ## Department Management System
 
 Technologies:
@@ -49,6 +51,8 @@ https://github.com/Marychiso/DepartmentManagementSystem.git
 ### Description:
 
 The Department Management System is a web-based platform that streamlines appointment scheduling and department entry requests for students. Students can book appointments with employees or apply for entry, while employees can review, approve, or reject requests through their dashboards. Approved requests generate secure QR codes for access verification, and a Super Admin manages employees and oversees system operations.
+
+
 
 
 ## Hornet Detection System
